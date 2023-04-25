@@ -12,6 +12,9 @@ If you want to test firebase, uncomment appropriate firebase code on both src/co
 
 In the project directory, you can run:
 
+### backend
+Go to /server, then run `node index.tsx`
+
 ### `npm start`
 
 Runs the app in the development mode.\
